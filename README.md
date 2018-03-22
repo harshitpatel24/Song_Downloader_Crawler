@@ -1,5 +1,6 @@
 # Song_Downloader_Crawler
-it requests http://www.hindigeetmala.net/singer/lata_mangeshkar.php song and create one text file containing all youtube links. After that I have created a module which read one by one url from file and download videos from youtube with given quality.
+it requests http://www.hindigeetmala.net/singer/lata_mangeshkar.php song and create one text file containing all youtube links. 
+After that I have created a module which read one by one url from file and download videos from youtube with given quality.
 
 Pre-requisites:
 python3
